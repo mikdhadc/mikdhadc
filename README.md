@@ -18,12 +18,13 @@ Here are some ideas to get you started:
 ## MOHAMMED MIKDHAD C
 
 
+**My Stats**
+
 <img align="center" alt="Language stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikdhadc&langs_count=8&layout=compact&hide=html%22&hide_border=true&theme=vision-friendly-dark&bg_color=0D1117" />
   
  
 <br>
 
-<!-- **My GitHub Status** -->
 <p align="left"> <img alt="Mikdhad's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mikdhadc&theme=github_dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true"/>
 
 
