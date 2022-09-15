@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 
 
-<img align="center" alt="Mikdhad's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mikdhadc&show_icons=true&theme=github_dark " />
+<!-- <img align="center" alt="Mikdhad's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mikdhadc&show_icons=true&theme=github_dark " /> -->
 
 
   ####  How to reach me:   
