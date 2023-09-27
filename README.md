@@ -34,7 +34,6 @@ Here are some ideas to get you started:
 
   ####  How to reach me:   
   
-  [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/Mikdhad3)
-  [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/mohammed-mikdhad-a602171ab/)
+  [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/mohammed-mikdhad-c/)
   [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/mikdhad._/)
   <a href="mailto:mikdhadcr7@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
