@@ -37,4 +37,10 @@ Here are some ideas to get you started:
   [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/mohammed-mikdhad-c/)
   [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/mikdhad._/)
   <a href="mailto:mikdhadcr7@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
-![ibmhacktoberfest2024](https://github.com/user-attachments/assets/07363f11-767f-4219-bfd0-a6dc018c8b3c)
+  
+
+  ####  Badges
+![ibmhacktoberfest2024](https://github.com/user-attachments/assets/0d3833a9-0bad-40ac-9c01-7b9e2360f5a1)
+
+
+
